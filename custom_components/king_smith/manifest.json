@@ -9,6 +9,9 @@
             "local_name": "KS-ST-*"
         },
         {
+            "local_name": "KS-EW-*"
+        },
+        {
             "local_name": "WalkingPad"
         }
     ],
@@ -19,12 +22,12 @@
     "dependencies": [
         "bluetooth"
     ],
-    "documentation": "https://github.com/indiefan/king_smith",
+    "documentation": "https://github.com/crkochan/king_smith",
     "iot_class": "local_polling",
-    "issue_tracker": "https://github.com/indiefan/king_smith/issues",
+    "issue_tracker": "https://github.com/crkochan/king_smith/issues",
     "requirements": [
         "bleak>=0.18.0",
         "ph4-walkingpad>=0.0.7"
     ],
-    "version": "0.1.2"
+    "version": "0.1.3.1"
 }
