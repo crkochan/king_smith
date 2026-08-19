@@ -16,7 +16,7 @@
         }
     ],
     "codeowners": [
-        "@indiefan"
+        "@crkochan"
     ],
     "config_flow": true,
     "dependencies": [
